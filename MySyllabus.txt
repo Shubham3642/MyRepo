@@ -1,0 +1,4 @@
+Linux Syllabus 
+What is Linux.
+What is Vim
+How to create Directory.
